@@ -1,0 +1,3 @@
+[submodule "themes/hugo386"]
+	path = themes/hugo386
+	url = https://github.com/jmfergeau/hugo.386

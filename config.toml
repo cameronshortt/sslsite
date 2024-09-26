@@ -1,0 +1,31 @@
+baseURL = 'http://ssl.cshortt.com'
+languageCode = 'en-us'
+title = 'Security Society of LSU'
+theme = 'hugo386'
+
+[params]
+    mainpagetitle = 'Security Society of LSU'
+    mainpagesubtitle = 'Hackers Welcome'
+    mainpagedesc = 'SSL is the foremost resource for learning cybersecurity through doing at LSU.'
+
+    showhugo = false
+
+    github = 'https://github.com/cameronshortt'
+    loadfastload = true
+
+[menu]
+    [[menu.main]]
+        identifier = 'about'
+        name = 'About'
+        url = '/about/'
+        weight = 10
+    [[menu.main]]
+        identifier = 'ctf'
+        name = 'Challenges'
+        url = '/ctf/'
+        weight = 20
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
