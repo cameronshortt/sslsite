@@ -1,7 +1,12 @@
 ---
 title: Task 0 - Find the Flag
 description: Easier than snot
+date: 2024-09-26
+type: "post"
+tags: ["Linux"]
+categories: ["Intro"]
 ---
+
 <p>Use your knowledge of Linux to find the contents of "flag"</p>
 <div class="mouseover">
     <table>
