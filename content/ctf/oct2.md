@@ -13,7 +13,15 @@ Mouseover the appropriate line for hints.  Highlight and right click to copy, an
 <div class="mouseover">
     <table>
         <tr>
-            <td>Hint</td>
+            <td>Hint 1</td>
+            <td class="content">check /mnt</td>
+        </tr>
+    </table>
+</div>
+<div class="mouseover">
+    <table>
+        <tr>
+            <td>Hint 2</td>
             <td class="content">.tar files are plaintext</td>
         </tr>
     </table>
