@@ -7,7 +7,11 @@ tags: ["Linux"]
 categories: ["Halloween"]
 ---
 
-Darn it! The evil entity encrypted our flag and wants tons of money for the password.  Can you get our flag so we don't have to pay out?
+Darn it! The evil entity encrypted our flag and wants tons of money for the password.
+
+We figured out that `evil` is a shell script that reads a password on a TCP port, but then we got bored and figured you can do the rest. (it's not that bad, you can take a look at it for us right?)
+
+Can you get our flag so we don't have to pay out?
 
 Mouseover the appropriate line for hints.  Highlight and right click to copy, and right click on cursor to paste.
 <div class="mouseover">
