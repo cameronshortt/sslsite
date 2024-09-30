@@ -18,7 +18,7 @@ Mouseover the appropriate line for hints.  Highlight and right click to copy, an
     <table>
         <tr>
             <td>Hint 1</td>
-            <td class="content">netcat :)</td>
+            <td class="content">use <code>command &</code> to background a command and <code>fg</code> to focus it</td>
         </tr>
     </table>
 </div>
@@ -26,7 +26,7 @@ Mouseover the appropriate line for hints.  Highlight and right click to copy, an
     <table>
         <tr>
             <td>Hint 2</td>
-            <td class="content">They're so l33t they use 1337th most common password</td>
+            <td class="content">netcat :)</td>
         </tr>
     </table>
 </div>
@@ -34,7 +34,7 @@ Mouseover the appropriate line for hints.  Highlight and right click to copy, an
     <table>
         <tr>
             <td>Hint 3</td>
-            <td class="content">netcat can be finicky sometimes, try ending input with ^D^C</td>
+            <td class="content">They're so l33t they use 1337th most common password</td>
         </tr>
     </table>
 </div>
@@ -42,6 +42,14 @@ Mouseover the appropriate line for hints.  Highlight and right click to copy, an
     <table>
         <tr>
             <td>Hint 4</td>
+            <td class="content">netcat can be finicky sometimes, try ending input with ^D^C</td>
+        </tr>
+    </table>
+</div>
+<div class="mouseover">
+    <table>
+        <tr>
+            <td>Hint 5</td>
             <td class="content">see above, use <a href="log">this</a> if you're super stuck (WARNING: MAJOR SPOILERS)</td>
         </tr>
     </table>
