@@ -1,5 +1,5 @@
 ---
-title: Task 1 - Lost Flag
+title: Halloween Day 1 - Lost Flag
 description: Our flag went missing!
 date: 2024-09-29
 type: "post"

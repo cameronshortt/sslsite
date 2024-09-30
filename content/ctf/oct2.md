@@ -1,5 +1,5 @@
 ---
-title: Task 2 - Backup Fail
+title: Halloween Day 2 - Backup Fail
 description: We lost out flag AND our backup
 date: 2024-09-29
 type: "post"

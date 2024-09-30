@@ -1,5 +1,5 @@
 ---
-title: Task 4 - Ransomware!
+title: Halloween Day 4 - Ransomware!
 description: Now our flag is being extorted! 
 date: 2024-09-29
 type: "post"

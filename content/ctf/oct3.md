@@ -1,5 +1,5 @@
 ---
-title: Task 3 - Badly Lost Flag
+title: Halloween Day 3 - Badly Lost Flag
 description: Our flag went missing (again)!
 date: 2024-09-29
 type: "post"
