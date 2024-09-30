@@ -7,8 +7,6 @@ date: 2024-09-30
 Officers
 ========
 
-President: Cam Shortt
-
-Vice President: Ronald Gibson
-
-Secretary: Logan
+- President: Cam Shortt
+- Vice President: Ronald Gibson
+- Secretary: Logan
