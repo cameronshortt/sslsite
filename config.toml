@@ -1,16 +1,16 @@
-baseURL = 'http://ssl.cshortt.com'
+baseURL = 'https://www.cyberclublsu.com'
 languageCode = 'en-us'
-title = 'Security Society of LSU'
+title = 'Security Society at LSU'
 theme = 'hugo386'
 
 [params]
-    mainpagetitle = 'Security Society of LSU'
+    mainpagetitle = 'Security Society at LSU'
     mainpagesubtitle = 'Hackers Welcome'
     mainpagedesc = 'SSL is the foremost resource for learning cybersecurity through doing at LSU.'
 
     showhugo = false
 
-    github = 'https://github.com/cameronshortt'
+    github = 'https://github.com/Hyper-Tiger-Transfer-Protocol'
     loadfastload = true
 
 [menu]
