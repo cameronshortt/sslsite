@@ -7,7 +7,7 @@ tags: ["Linux"]
 categories: ["Halloween"]
 ---
 
-So after two super embarrassing flag heists we decided backups were maybe a good idea, but the evil entity came back and destroyed our backup program and the flag!  Can you recover it please?
+So after an super embarrassing flag heist we decided backups were maybe a good idea, but the evil entity came back and destroyed our backup program and the flag!  Can you recover it please?
 
 Mouseover the appropriate line for hints.  Highlight and right click to copy, and right click on cursor to paste.
 <div class="mouseover">
