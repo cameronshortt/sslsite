@@ -1,7 +1,7 @@
 ---
 title: Halloween Day 2 - Backup Fail
 description: We lost out flag AND our backup
-date: 2024-09-29
+date: 2024-10-02
 type: "post"
 tags: ["Linux"]
 categories: ["Halloween"]

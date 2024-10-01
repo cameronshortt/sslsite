@@ -1,7 +1,7 @@
 ---
 title: Halloween Day 1 - Lost Flag
 description: Our flag went missing!
-date: 2024-09-29
+date: 2024-10-01
 type: "post"
 tags: ["Linux"]
 categories: ["Halloween"]

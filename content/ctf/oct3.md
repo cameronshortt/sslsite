@@ -1,7 +1,7 @@
 ---
 title: Halloween Day 3 - Badly Lost Flag
 description: Our flag went missing (again)!
-date: 2024-09-29
+date: 2024-10-03
 type: "post"
 tags: ["Linux"]
 categories: ["Halloween"]

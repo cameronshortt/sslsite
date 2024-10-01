@@ -1,7 +1,7 @@
 ---
 title: Halloween Day 4 - Ransomware!
 description: Now our flag is being extorted! 
-date: 2024-09-29
+date: 2024-10-04
 type: "post"
 tags: ["Linux"]
 categories: ["Halloween"]
