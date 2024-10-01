@@ -31,7 +31,11 @@ Mouseover the appropriate line for hints.  Highlight and right click to copy, an
 <script src="/ctf/vm/oct2.js"></script>
 <div id="virt">
     <iframe src="/ctf/vm/vm.html?url=oct2.cfg&cpu=x86">Incompatible Browser D:</iframe>
-</div>
-<h1 id="status"></h1>
+</div><
+<table id="result" style="visibility=hidden"><tr>
+    <td><h1 id="status"></h1></td>
+	<td id="link"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2U40kd2YZ1z-lAdet2ltbJ9bmWXi3YtVB7yn4RoGj66pP7w/viewform">Record your Progress</a>
+	</tr>
+</table>
 <textarea id="flag">Type flag here</textarea>
 <button onclick="submit();">Submit</button>
